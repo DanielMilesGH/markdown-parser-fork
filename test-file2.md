@@ -1,4 +1,4 @@
 # Title
 
-[a link[] (test)](google.com)
+[a link](google.com)
 [link2](some-thing.html)
